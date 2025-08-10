@@ -47,11 +47,12 @@ Here you’ll find a curated selection of projects that showcase my ability to d
 
 ---
 
-### 6) **affirm-ts-foundations-demo**
-**Type:** Backend Foundations (Trust & Safety)  
-**Tech:** FastAPI, MySQL (SQLAlchemy), Redis (rate limiter/counters), Prometheus metrics, Docker/K8s, CI  
-**What it shows:** Risk state machine, vendor adapters, rate limiter, counters, audit logs, metrics; aligns with T&S platform building blocks.  
-[**View Repository »**](https://github.com/tilino-dev/affirm-ts-foundations-demo)
+### 6) **retail-analytics-lakehouse**  
+**Type:** Data Engineering (ETL/ELT & Lakehouse)  
+**Tech:** PySpark, SQL (Snowflake), Airflow, Great Expectations, Docker, CI/CD  
+**What it shows:** End-to-end retail analytics pipeline from raw data to curated warehouse tables using a modern lakehouse architecture; scalable PySpark transformations, data quality validation, dimensional modeling, orchestration with Airflow, and automated testing/deployment.  
+[**View Repository »**](https://github.com/tilino-dev/retail-analytics-lakehouse)
+
 
 ---
 
